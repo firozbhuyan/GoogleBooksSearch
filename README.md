@@ -1,4 +1,4 @@
-# Create React Express App
+# Create Google Books Search App
 
 ## About This Boilerplate
 
