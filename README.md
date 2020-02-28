@@ -1,6 +1,6 @@
 # Create Google Books Search App
 
-## About This Boilerplate
+## About
 
 This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
 
